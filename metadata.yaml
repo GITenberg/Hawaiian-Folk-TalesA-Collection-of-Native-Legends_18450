@@ -1,0 +1,29 @@
+_repo: Hawaiian-Folk-TalesA-Collection-of-Native-Legends_18450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Thrum, Thomas G. (Thomas George)
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '8035'
+    url: http://www.gutenberg.org/2009/agents/8035
+description: ''
+gutenberg_issued: '2006-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- Hawaii'
+- !lcsh 'Legends -- Hawaii'
+title: 'Hawaiian Folk Tales
+
+  A Collection of Native Legends'
+url: http://www.gutenberg.org/ebooks/18450
